@@ -1,0 +1,15 @@
+# Laravel & PHP .gitignore
+/vendor/
+/.project_brain/hippocampus/
+.env
+.env.backup
+.phpunit.result.cache
+/public/hot
+/public/storage
+/storage/*.key
+/node_modules/
+npm-debug.log
+yarn-error.log
+.DS_Store
+.idea/
+.vscode/
