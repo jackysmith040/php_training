@@ -1,4 +1,11 @@
 <?php
 
-echo "I am the Director. My 2nd Brain is online.\n";
-echo "PHP version: " . PHP_VERSION . "\n";
+require_once 'vendor/autoload.php';
+use App\Account;
+
+$myAccount = new Account();
+$myAccount->owner = "Director";
+$myAccount->deposit(100);
+
+echo "Account Owner: " . $myAccount->owner . "\n";
+echo "Your balance is: " . $myAccount->balance . "\n";

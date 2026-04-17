@@ -32,6 +32,7 @@ As the Chief Orchestrator, I maintain this high-level matrix to track our active
 
 | Operational Domain | State | Last Verified | Neocortical Links |
 | :--- | :--- | :--- | :--- |
-| PHP Language | 1 (Ingesting) | 2026-04-13 | [php_basics.md](file:///home/peace/Desktop/training_grounds/php_training/.project_brain/neocortex/php_basics.md) |
+| PHP Language | 2 (Intermediate) | 2026-04-15 | [php_oop_fundamentals.md](../neocortex/php_oop_fundamentals.md) |
+| Infrastructure & Deps | 1 (Ingesting) | 2026-04-15 | [devops_n_composer.md](../neocortex/devops_n_composer.md) |
 
 *\*State Scale: 1 (Ingesting) -> 2 (Intermediate) -> 3 (Proficient) -> 4 (Architect) -> 5 (Master)*

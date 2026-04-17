@@ -32,4 +32,4 @@ Once you see that output, take a moment to look at the syntax.
 - Why does it start with `<?php`?
 - What do you think the `.` does in that second echo line?
 
-Drop your answers or any confusion into `.project_brain/hippocampus/buffer.md`. I'll be watching!
+Drop your answers or any confusion into `../.project_brain/hippocampus/buffer.md`. I'll be watching!

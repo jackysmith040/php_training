@@ -33,4 +33,4 @@ Once you've done that, go to [GitHub](https://github.com) and create an account 
 - Does the concept of "Commiting" remind you of anything from video games? 
 - Why do you think we added `.env` to the `.gitignore` file? (Hint: Think about your password).
 
-Drop your thoughts in `.project_brain/hippocampus/buffer.md`.
+Drop your thoughts in `../.project_brain/hippocampus/buffer.md`.

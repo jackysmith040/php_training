@@ -1,0 +1,20 @@
+{
+    "name": "director/laravel-launchpad",
+    "description": "Professional Laravel career training project.",
+    "type": "project",
+    "require": {
+        "laravel/framework": "^13.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Director"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
